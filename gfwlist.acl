@@ -5141,6 +5141,7 @@
 (^|\.)dnsleaktest\.com$
 (^|\.)ipleak\.net$
 (^|\.)infosniper\.net$
+(^|\.)iplocation\.net$
 
 # BBC
 (^|\.)\w*uk-live\w*\.\w*$

@@ -5137,6 +5137,11 @@
 (^|\.)zzcartoon\.com$
 (^|\.)zzux\.com$
 
+# IP
+(^|\.)dnsleaktest\.com$
+(^|\.)ipleak\.net$
+(^|\.)infosniper\.net$
+
 # BBC
 (^|\.)\w*uk-live\w*\.\w*$
 (^|\.)bbc\.co$
